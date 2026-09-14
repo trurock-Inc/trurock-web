@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-09-08T07:20:26.718Z",
+    "targetEmail": "trurock.in@gmail.com",
+    "name": "Arunachalam K",
+    "email": "arunachalamk27ra@esec.ac.in",
+    "phone": "+919934751002",
+    "organization": "Erode Sengunthar Engineering College",
+    "interest": "Other Inquiries",
+    "message": "TELL"
+  },
+  {
+    "timestamp": "2026-09-07T20:03:56.587Z",
+    "targetEmail": "trurock.in@gmail.com",
+    "name": "arunachalam",
+    "email": "zibershadow@gmail.com",
+    "phone": "9943751002",
+    "organization": "TRUROCK",
+    "interest": "Robotics & Autonomous Systems",
+    "message": "HAI"
+  },
+  {
+    "timestamp": "2026-09-07T19:23:18.194Z",
+    "targetEmail": "trurock.in@gmail.com",
+    "name": "arunachalam",
+    "email": "zibershadow@gmail.com",
+    "phone": "9943751002",
+    "organization": "TRUROCK",
+    "interest": "Education & Lab Training Kits",
+    "message": "ARUN"
+  },
+  {
+    "timestamp": "2026-09-07T19:21:18.438Z",
+    "targetEmail": "trurock.in@gmail.com",
+    "name": "arunachalam",
+    "email": "zibershadow@gmail.com",
+    "phone": "9943751002",
+    "organization": "TRUROCK",
+    "interest": "Robotics & Autonomous Systems",
+    "message": "HAI"
+  },
+  {
+    "timestamp": "2026-09-07T19:20:26.521Z",
+    "targetEmail": "trurock.in@gmail.com",
+    "name": "Direct Website Client",
+    "email": "direct_client@example.com",
+    "phone": "9843886680",
+    "organization": "TruRock Labs",
+    "interest": "Robotics & Autonomous Systems",
+    "message": "Direct test from website without mail app."
+  }
+]
